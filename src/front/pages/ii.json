@@ -1,0 +1,216 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9DjPd7wQsHZYpCLYTYYvNp82qg0",
+  "nextPageToken": "CAkQAA",
+  "regionCode": "ET",
+  "pageInfo": {
+    "totalResults": 220,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zn-Do47y7WVRviH8UdQO9Tjuss0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9A9XYerlCyQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-09T18:46:18Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Wanna see something gorgeous? #Shorts",
+        "description": "Apple's new look is coming soon. Learn more at www.apple.com/os. Audio Descriptions: https://apple.co/45MsrtK “Only You” by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9A9XYerlCyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9A9XYerlCyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9A9XYerlCyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-09T18:46:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_qRvtpnnvzcrFq3ZqAxzMuojxBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7FOyAAHF5lk"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-05T17:02:28Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "🥾 3 outdoorsy features on iPhone 16e #Shorts",
+        "description": "Some key features for getting into nature with the new iPhone 16e: Messages via satellite 48MP Fusion camera Color ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7FOyAAHF5lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7FOyAAHF5lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7FOyAAHF5lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-05T17:02:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zPfwLG3LZ-Ps33P1ttPZwf_nYMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cwZsHxLLlZ0"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-29T15:25:33Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing the all-new Mac mini | Apple | #Shorts",
+        "description": "The all-new Mac mini is five by five inches of pure power and purpose. With a wide array of ports, now on the front and back.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-29T15:25:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ua-vcWO3OJxivfvg11FAOPK2Mws",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gV8NiTF-ijY"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-09T19:22:46Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Meet the new iPhone family. #Shorts",
+        "description": "Meet the new iPhone family: iPhone 17 Pro, iPhone Air and iPhone 17. Which one will you choose? #GuidedTour #iPhone ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gV8NiTF-ijY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gV8NiTF-ijY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gV8NiTF-ijY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-09T19:22:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "heC86hSv-3qGx11Gj-S7hJnHX6E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U6GCiR9dKTg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-28T17:28:02Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Latest iPhone. Greatest price. iPhone 16e has Clean Up, so you can remove distractions. #Shorts",
+        "description": "The new iPhone 16e comes with supersized battery life, a 48MP Fusion camera, and a durable design. It's built for Apple ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U6GCiR9dKTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U6GCiR9dKTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U6GCiR9dKTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-28T17:28:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O_7jdYiftvAEi71pJiRfqvzoMjY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yEsgrQmeT68"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-15T10:30:00Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Sample Title",
+        "description": "Sample description",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEsgrQmeT68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEsgrQmeT68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEsgrQmeT68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-15T10:30:00Z"
+      }
+    }
+  ]
+}
