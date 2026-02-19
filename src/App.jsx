@@ -6,9 +6,9 @@ import Home from './front/pages/home.jsx';
 import Iphone from './front/pages/iphones.jsx';
 import Mac from './front/pages/mac.jsx';
 import iPad from './front/pages/ipad.jsx';
-import Watch from './front/pages/Watch.jsx';
-import Vision from './front/pages/Vision.jsx';
-import AirPods from './front/pages/AirPods.jsx';
+import Watch from "./front/pages/Watch.jsx";
+import Vision from "./front/pages/Vision.jsx";
+import Airpods from "./front/pages/Airpods.jsx";  
 import TvHome from './front/pages/TvHome.jsx';
 import Entertainment from './front/pages/Entertainment.jsx';
 import Accessories from './front/pages/Accessories.jsx';
@@ -35,7 +35,7 @@ function App() {
             <Route path="/getproducts/:productUrl" element={<ProductPage />} />
             <Route path="/watch" element={<Watch />} />
             <Route path="/vision" element={<Vision />} />
-            <Route path="/airpods" element={<AirPods />} />
+          <Route path="/airpods" element={<Airpods />} />  
             <Route path="/tv-home" element={<TvHome />} />
             <Route path="/entertainment" element={<Entertainment />} />
             <Route path="/accessories" element={<Accessories />} />
