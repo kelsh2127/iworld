@@ -13,7 +13,7 @@ const AirPods = () => {
             <a href="#" style={styles.heroLink}>Buy ›</a>
           </div>
           <img 
-            src="https://www.apple.com/v/airpods-pro/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+            src="https://t4.ftcdn.net/jpg/17/01/79/25/240_F_1701792583_U8qSajWlRp3edwvnuA0pbeZI9AfyDZRr.jpg" 
             alt="AirPods"
             style={styles.heroImage}
           />
@@ -28,7 +28,7 @@ const AirPods = () => {
             {/* AirPods Pro 2 */}
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/airpods-pro/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSokHT9lwJu6F-eE_aCNTN28F5CKcc276gsg&s" 
                 alt="AirPods Pro 2"
                 style={styles.productImage}
               />
@@ -41,7 +41,7 @@ const AirPods = () => {
             {/* AirPods Max */}
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/airpods-max/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111851_sp880-airpods-Pro-2nd-gen.png" 
                 alt="AirPods Max"
                 style={styles.productImage}
               />
@@ -54,7 +54,7 @@ const AirPods = () => {
             {/* AirPods 3 */}
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/airpods-3rd-generation/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://static.vecteezy.com/system/resources/thumbnails/034/087/793/small/iconic-airpods-pro-from-apple-inc-on-a-clean-white-backdrop-ai-generated-photo.jpg" 
                 alt="AirPods 3"
                 style={styles.productImage}
               />
@@ -67,7 +67,7 @@ const AirPods = () => {
             {/* AirPods 2 */}
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/airpods-2nd-generation/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://m.media-amazon.com/images/I/417OJaY3DAL.jpg" 
                 alt="AirPods 2"
                 style={styles.productImage}
               />

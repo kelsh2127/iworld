@@ -17,7 +17,7 @@ const Vision = () => {
             <a href="#" style={styles.heroLink}>Pre-order ›</a>
           </div>
           <img 
-            src="https://www.apple.com/v/apple-vision-pro/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+            src="https://photos5.appleinsider.com/gallery/58358-119121-VP15-xl.jpg" 
             alt="Apple Vision Pro"
             style={styles.heroImage}
           />
@@ -30,18 +30,39 @@ const Vision = () => {
           <h2 style={styles.sectionTitle}>A revolutionary spatial computer</h2>
           <div style={styles.featuresGrid}>
             <div style={styles.featureCard}>
+                 <img 
+            src="https://thumbs.dreamstime.com/b/calgary-alberta-canada-sep-person-touching-digital-crown-apple-watch-series-braided-solo-loop-made-recycled-197502767.jpg" 
+            alt="Apple Vision Pro"
+            style={styles.heroImage}
+          />
               <h3 style={styles.featureTitle}>Digital Crown</h3>
               <p style={styles.featureText}>Stay present or go fully immersive.</p>
             </div>
             <div style={styles.featureCard}>
+                  <img 
+            src="https://media.istockphoto.com/id/1321452985/photo/woman-holding-glasses-against-eye-chart-on-blue-background-closeup-ophthalmologist.jpg?s=612x612&w=0&k=20&c=8Dx3YNzW3P4jTak-V289ZZW1lT8yT9k38bnxHuJgWQ8=" 
+            alt="Apple Vision Pro"
+            style={styles.heroImage}
+          />" 
+          
               <h3 style={styles.featureTitle}>EyeSight</h3>
               <p style={styles.featureText}>Reveal your eyes when someone approaches.</p>
             </div>
             <div style={styles.featureCard}>
+                  <img 
+            src="https://img.freepik.com/premium-psd/dslr-camera-3d-icon_805221-383.jpg?semt=ais_user_personalization&w=740&q=80"
+            alt="Apple Vision Pro"
+            style={styles.heroImage}
+          />
               <h3 style={styles.featureTitle}>3D Camera</h3>
               <p style={styles.featureText}>Capture spatial photos and videos.</p>
             </div>
             <div style={styles.featureCard}>
+               <img 
+            src="https://developer.apple.com/news/images/og/visionos-og.jpg" 
+            alt="Apple Vision Pro"
+            style={styles.heroImage}
+          />
               <h3 style={styles.featureTitle}>visionOS</h3>
               <p style={styles.featureText}>The world's first spatial operating system.</p>
             </div>

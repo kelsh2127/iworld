@@ -13,7 +13,7 @@ const Iphone = () => {
             <a href="#" style={styles.heroLink}>Buy ›</a>
           </div>
           <img 
-            src="https://www.apple.com/v/iphone-15-pro/c/images/overview/welcome/hero_iphone_15_pro__i70z9oz3hj2i_largetall.jpg" 
+            src="https://assets.thehansindia.com/h-upload/2023/09/04/1377571-iphone.webp" 
             alt="iPhone 15 Pro"
             style={styles.heroImage}
           />
@@ -27,7 +27,7 @@ const Iphone = () => {
           <div style={styles.lineupGrid}>
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/iphone-15/c/images/overview/hero/hero_iphone_15__fmms16fl77yq_large.jpg" 
+                src="https://clevercel.mx/cdn/shop/files/3_ff67afe0-c89f-4a07-ab7d-c516de387a6f.jpg?v=1763065322&width=1214" 
                 alt="iPhone 15"
                 style={styles.productImage}
               />
@@ -39,7 +39,7 @@ const Iphone = () => {
             
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/iphone-15-pro/c/images/overview/hero/hero_iphone_15_pro__i70z9oz3hj2i_large.jpg" 
+                src="https://supercells.co.za/wp-content/uploads/2023/11/15pmax-11.jpg" 
                 alt="iPhone 15 Pro"
                 style={styles.productImage}
               />
@@ -51,7 +51,7 @@ const Iphone = () => {
 
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/iphone-14/c/images/overview/hero/hero_iphone_14__ewfc1g4i6u26_large.jpg" 
+                src="https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg" 
                 alt="iPhone 14"
                 style={styles.productImage}
               />
@@ -187,6 +187,7 @@ const styles = {
     color: '#06c',
     textDecoration: 'none',
   },
+  
   featuresSection: {
     padding: '80px 0',
     backgroundColor: '#fff',

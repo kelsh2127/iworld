@@ -19,7 +19,7 @@ const Watch = () => {
             <a href="#" style={styles.heroLink}>Buy ›</a>
           </div>
           <img 
-            src="https://www.apple.com/v/apple-watch-series-9/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+            src="https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-hero-230912_Full-Bleed-Image.jpg.large.jpg" 
             alt="Apple Watch Series 9"
             style={styles.heroImage}
           />
@@ -34,7 +34,7 @@ const Watch = () => {
             {/* Apple Watch Series 9 */}
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/apple-watch-series-9/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://media.cnn.com/api/v1/images/stellar/prod/apple-watch-10-product-offer-card.png?c=16x9&q=h_720,w_1280,c_fill" 
                 alt="Apple Watch Series 9"
                 style={styles.productImage}
               />
@@ -47,7 +47,7 @@ const Watch = () => {
             {/* Apple Watch Ultra 2 */}
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/apple-watch-ultra-2/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://rukminim2.flixcart.com/image/480/640/xif0q/smartwatch/1/t/v/-original-imah4jp2nfbhthz2.jpeg?q=90" 
                 alt="Apple Watch Ultra 2"
                 style={styles.productImage}
               />
@@ -60,7 +60,7 @@ const Watch = () => {
             {/* Apple Watch SE */}
             <div style={styles.productCard}>
               <img 
-                src="https://www.apple.com/v/apple-watch-se/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFG-4KLVu2bp8IsU82YWjaGF2shZmj5rLTw&s" 
                 alt="Apple Watch SE"
                 style={styles.productImage}
               />

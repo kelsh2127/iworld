@@ -19,7 +19,7 @@ const TvHome = () => {
             <a href="#" style={styles.heroLinkSecondary}>Learn more ›</a>
           </div>
           <img 
-            src="https://www.apple.com/v/apple-tv-plus/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmm9a9EMfeuZ8V5ZUgdODb4epigAeRT5rgJw&s" 
             alt="Apple TV+"
             style={styles.heroImage}
           />
@@ -34,7 +34,7 @@ const TvHome = () => {
           <div style={styles.deviceGrid}>
             <div style={styles.deviceCard}>
               <img 
-                src="https://www.apple.com/v/apple-tv-4k/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://knowtechie.com/wp-content/uploads/2022/10/appletv.webp" 
                 alt="Apple TV 4K"
                 style={styles.deviceImage}
               />
@@ -43,7 +43,7 @@ const TvHome = () => {
             </div>
             <div style={styles.deviceCard}>
               <img 
-                src="https://www.apple.com/v/siri-remote/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UHXB8YeqirjBfmg3Uhfmy_yIiAG1wurdyw&s" 
                 alt="Siri Remote"
                 style={styles.deviceImage}
               />
@@ -62,7 +62,7 @@ const TvHome = () => {
               <h2 style={styles.homeTitle}>HomePod</h2>
               <p style={styles.homeText}>Breakthrough sound and intelligence.</p>
               <img 
-                src="https://www.apple.com/v/homepod/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-select-202210_FMT_WHH?wid=640&hei=600&fmt=jpeg&qlt=90&.v=Q1RBQitMYmJvQlQ1STVESXY1WlV2UHpjMkwxYU8rbXJpUkFjQlJDOEdId21kWFdyUmdaSDBPOWtrUUs1Q1BGR3VUb3VPa2FUZVhQMFhDQnVBMWhwQTdMd09oclphb09tVUFNSEdpQmlqb0E" 
                 alt="HomePod"
                 style={styles.homeImage}
               />
@@ -71,7 +71,7 @@ const TvHome = () => {
               <h2 style={styles.homeTitle}>HomePod mini</h2>
               <p style={styles.homeText}>Big sound for its size.</p>
               <img 
-                src="https://www.apple.com/v/homepod-mini/c/images/overview/hero/hero__c1k9w2z1x3em_large.jpg" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvmr8OJBNKOoCpKMK88xIjL4Ac9HjvpW2mw&s" 
                 alt="HomePod mini"
                 style={styles.homeImage}
               />
