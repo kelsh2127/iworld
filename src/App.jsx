@@ -5,7 +5,7 @@ import Footer from './front/components/footer.jsx';
 import Home from './front/pages/home.jsx';
 import Iphone from './front/pages/iphones.jsx';
 import Mac from './front/pages/mac.jsx';
-import iPad from './front/pages/ipad.jsx';
+import IPad from './front/pages/ipad.jsx';
 import Watch from "./front/pages/watch.jsx";
 import Vision from "./front/pages/vision.jsx";
 import Airpods from "./front/pages/Airpods.jsx";  
@@ -30,7 +30,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/store" element={<Store />} />
             <Route path="/mac" element={<Mac />} />
-            <Route path="/ipad" element={<iPad />} />
+            <Route path="/ipad" element={<IPad />} />
             <Route path="/iphone" element={<Iphone />} />
             <Route path="/getproducts/:productUrl" element={<ProductPage />} />
             <Route path="/watch" element={<Watch />} />
